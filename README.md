@@ -1,9 +1,10 @@
 # GravityJumper
 A 2D Jump 'n' Run game with shifting gravity!
 
-This game was made in 6 months while doing Scrum.
-This project was made with [MonoGame](https://www.monogame.net/), a framework for creating cross-platform games.
-It's a school project for learning SCRUM and other tools of software engineering
+![grafik](https://user-images.githubusercontent.com/64036584/112759970-9f75f780-8ff5-11eb-8fa1-dade6d87186d.png)
+
+
+This game was made in 6 months while doing Scrum and learning other software engineering tools.
 
 
 ***
