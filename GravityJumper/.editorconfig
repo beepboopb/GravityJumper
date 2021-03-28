@@ -1,0 +1,11 @@
+# Rules in this file were initially inferred by Visual Studio IntelliCode from the D:\Studium\Software-Engineering\Reository\GravityJumper\GravityJumper\Content\ codebase based on best match to current usage at 11.11.2020
+# You can modify the rules from these initially generated values to suit your own policies
+# You can learn more about editorconfig here: https://docs.microsoft.com/en-us/visualstudio/ide/editorconfig-code-style-settings-reference
+[*.cs]
+
+# SA1200: Using directives should be placed correctly
+dotnet_diagnostic.SA1200.severity = none
+dotnet_diagnostic.SA1210.severity = none
+dotnet_diagnostic.SA1602.severity = none
+dotnet_diagnostic.SA1600.severity = none
+dotnet_diagnostic.SA0001.severity = none
